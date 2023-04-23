@@ -1,0 +1,21 @@
+body {
+    background-color: rgba(0, 0, 222, 0.4);
+    color: whit;
+}
+
+div {
+    background-color: rgba(12, 12, 100, 0.6);
+    color: white;
+}
+
+input,
+select,
+label,
+textarea {
+    display: block
+}
+
+fieldset {
+    border: none;
+    margin: 0 auto;
+}

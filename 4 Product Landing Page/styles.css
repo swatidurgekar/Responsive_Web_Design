@@ -1,0 +1,24 @@
+@media only screen and (max-width:100px) {
+    * {
+        font-size: 100px;
+    }
+}
+
+#submit {
+    display: flex;
+}
+
+div {
+    border: 2px solid;
+    padding: 5px;
+}
+
+.head {
+    background: gray;
+}
+
+#nav-bar {
+    align-items: top;
+    margin-top: 0;
+    position: fixed;
+}
